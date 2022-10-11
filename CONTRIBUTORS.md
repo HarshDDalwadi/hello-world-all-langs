@@ -112,3 +112,10 @@
 - Place: Lagos, Nigeria
 - Bio: Frontend Developer who loves games and anime
 - Github: [vermilion4](https://github.com/vermilion4)
+
+## Name: [Ayush Jha](https://github.com/jhaayushofficial)
+
+- Place:Ahmedabad, Gujarat, India
+- Bio: IT Student and now I am trying my hands in Opensource, I love playing chess and badminton.
+- Github: [jhaayushofficial](https://github.com/jhaayushofficial)
+
